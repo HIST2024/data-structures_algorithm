@@ -28,6 +28,7 @@ public class Demo01 {
             }
         }
         return sb.toString();
+
     }
 
     public static String replaceSpace2(String s) {
